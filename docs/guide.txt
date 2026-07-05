@@ -1,0 +1,7 @@
+datasets: Stores datasets.
+notebooks: Jupyter notebooks.
+models: Saved ML models.
+outputs: Prediction results.
+scripts: Python scripts.
+images: Project images.
+docs: Documentation files.
